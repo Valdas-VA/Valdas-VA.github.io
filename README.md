@@ -1,5 +1,3 @@
-# Valdas-VA.github.io
-
 # Valdas - Duomenų Analitikos Specialistas
 
 ## Apie Mane
