@@ -7,8 +7,8 @@ Esu jaunasis duomenų analitikos specialistas, turintis aistrą duomenų analize
 
 ## Įgūdžiai
 - Duomenų analizė
-- Duomenų vizualizacija (pavyzdžiui, naudojant Tableau, Power BI)
-- Programavimo kalbos (Python, R)
+- Duomenų vizualizacija (pavyzdžiui, naudojant Power BI)
+- Programavimo kalbos (Python)
 - SQL
 - Statistinė analizė
 
@@ -24,5 +24,5 @@ Esu jaunasis duomenų analitikos specialistas, turintis aistrą duomenų analize
 - **Rezultatai:** ką pasiekei?
 
 ## Kontaktai
-- El. paštas: [tavo.el.paštas@example.com](mailto:tavo.el.paštas@example.com)
+- El. paštas: [va.valdasram@gmail.com](mailto:tavo.el.paštas@example.com)
 - LinkedIn: [tavo LinkedIn profilis](nuoroda į profilį)
