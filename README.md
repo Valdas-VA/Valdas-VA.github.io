@@ -23,4 +23,4 @@ Esu jaunasis duomenų analitikos specialistas, turintis aistrą duomenų analize
 
 ## Kontaktai
 - El. paštas: [va.valdasram@gmail.com](mailto:tavo.el.paštas@example.com)
-- LinkedIn: [tavo LinkedIn profilis](nuoroda į profilį)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/valdas-ramanauskas-889b40335)
