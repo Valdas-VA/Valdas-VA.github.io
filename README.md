@@ -16,11 +16,6 @@ Esu jaunasis duomenų analitikos specialistas, turintis aistrą duomenų analize
 - **Technologijos:** išvardink naudojamas technologijas.
 - **Rezultatai:** ką pasiekei?
 
-### 2. [Projekto Pavadinimas](nuoroda į projektą)
-- **Aprašymas:** trumpai apibūdink projektą.
-- **Technologijos:** išvardink naudojamas technologijas.
-- **Rezultatai:** ką pasiekei?
-
 ## Kontaktai
 - El. paštas: [va.valdasram@gmail.com](mailto:tavo.el.paštas@example.com)
 - LinkedIn: [LinkedIn](www.linkedin.com/in/valdas-ramanauskas-889b40335)
