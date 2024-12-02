@@ -1,5 +1,4 @@
-# Valdas - Duomenų Analitikos Specialistas
-
+# Valdas - Pradedantysis Duomenų Analitikos programuotojas
 ## Apie Mane
 Esu jaunasis duomenų analitikos specialistas, turintis aistrą duomenų analizei ir sprendimų priėmimui. Man patinka dirbti su duomenimis, kad atrastume įžvalgas, kurios gali padėti verslui augti ir tobulėti. siekiantis kurti sprendimus. Turiu patirties analizuojant duomenis ir generuojant įžvalgas.
 
